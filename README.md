@@ -1,4 +1,4 @@
-# **AUWatchingThis (README 파일 수정중)**
+# **AUWatchingThis**
 
 **얼굴 인식을 통해 사용자 등록 여부를 판단하고, 실시간 시선추적을 통해 광고 시청 여부를 판단하는 Android 어플리케이션입니다.**
 
